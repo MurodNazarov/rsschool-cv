@@ -7,7 +7,7 @@
 **Phone:** +998 99 668 2557<br>
 **E-mail:** murodnazarov150@@gmail.com<br>
 **Telegram:** @MurodNazarov<br>
-[LinkedIn]https://www.linkedin.com/in/behzod-xudoyberdi/)<br>
+[LinkedIn]https://www.linkedin.com/in/murod-nazarov-120634226/)<br>
 ---
 
 ### Briefly About Myself:
