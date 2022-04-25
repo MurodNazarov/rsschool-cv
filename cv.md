@@ -21,11 +21,9 @@ Learner who is curious about gaining new knowledge and excited about coding. Cur
 - JavaScript 
 - Vue js(Javascript framework) 
 - Nuxt js(Vue js framework) 
-- PHP 
 - Git, GitHub
 - VS Code
 - Tailwind css(Css framework)
-- Laravel(PHP framework)
 
 
 ### Code example:
